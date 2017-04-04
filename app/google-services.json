@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812539568249",
+    "firebase_url": "https://securitycamera-1cbe4.firebaseio.com",
+    "project_id": "securitycamera-1cbe4",
+    "storage_bucket": "securitycamera-1cbe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812539568249:android:02ba1cafe18c1d58",
+        "android_client_info": {
+          "package_name": "com.hfad.securityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812539568249-qdteadj4b0ct9h1kp4v34n0jhkkg6o88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.securityapp",
+            "certificate_hash": "b2bad9c0fd8a9499f170dcebf101dd46c7196b19"
+          }
+        },
+        {
+          "client_id": "812539568249-00q41tek1q3st6e70me7o0gl34pbenml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59tcR4r3TIuI8Zml3o2gRkxklu63zshE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812539568249-00q41tek1q3st6e70me7o0gl34pbenml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
